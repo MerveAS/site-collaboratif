@@ -9,7 +9,7 @@ p, ul, ol {/* je commente un peu ceci */ color: dimgray;
 h1, h3 {color: darkblue;}
 .maclasse{color: darkgreen;}
 .grand-texte{font-size: 30PX} 
-.gouvernance{color: chartreuse;}
+.gouvernance{color: rgb(0, 26, 255);}
 
 p, ul, ol {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: medium;}
