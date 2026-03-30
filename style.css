@@ -1,0 +1,25 @@
+h2 {
+    color:red;
+}
+body{background-color:#e6e6e6 ;
+color:#000000;
+}
+p, ul, ol {/* je commente un peu ceci */ color: dimgray;
+}
+h1, h3 {color: darkblue;}
+.maclasse{color: darkgreen;}
+.grand-texte{font-size: 30PX} 
+.gouvernance{color: chartreuse;}
+
+p, ul, ol {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: medium;}
+.police{font-size: 1.3em;}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{font-style: italic; font-weight:900;}
+h2{text-decoration: underline;}
+h1{background-image: arriere.jpg;}
